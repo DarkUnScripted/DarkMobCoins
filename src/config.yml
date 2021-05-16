@@ -1,0 +1,8 @@
+DatabaseHost: "46.249.59.197"
+DatabasePort: 3306
+DatabaseNaam: "s121_MobCoins"
+DatabaseUser: "u121_WxBL88D6rb"
+DatabasePassword: "5H+e@v6h5K5js2K^IO^FyS9h"
+CurrencyName: "Token"
+MaxCoinValue: 10
+

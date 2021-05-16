@@ -1,0 +1,8 @@
+name: DarkMobCoins
+version: 1.0.0
+main: net.darkunscripted.DarkMobCoins.Main
+description: This is a Custom MobCoin Plugin
+
+commands:
+  tokens:
+    description: Main Command
